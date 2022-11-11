@@ -1,5 +1,6 @@
 [
 {   "id": 1,
+        "product": "kite",
         "brand": "Cabrinha",
         "model": "FX2 yellow",
         "style": "Freestyle",
@@ -9,6 +10,7 @@
         "path": "../"
     },
         {   "id": 2,
+        "product": "kite",
         "brand": "Cabrinha",
         "model": "FX2 red",
         "style": "Freestyle",
@@ -18,6 +20,7 @@
         "path": "../"
     },
         {   "id": 3,
+        "product": "kite",
         "brand": "Cabrinha",
         "model": "FX2 turquoise",
         "style": "Freestyle",
@@ -27,6 +30,7 @@
         "path": "../"
     },
         {   "id": 4,
+        "product": "kite", 
         "brand": "Cabrinha",
         "model": "FX2 blue",
         "style": "Freestyle",
@@ -36,6 +40,7 @@
         "path": "../"
     },
 {   "id": 5,
+        "product": "kite",
         "brand": "Duotone",
         "model": "Dice",
         "style": "Freestyle",
@@ -45,6 +50,7 @@
         "path": "../"
     },
         {   "id": 6,
+        "product": "kite", 
         "brand": "Duotone",
         "model": "Vegas",
         "style": "Freestyle",
@@ -54,6 +60,7 @@
         "path": "../"
     },
         {   "id": 7,
+        "product": "kite", 
         "brand": "Duotone",
         "model": "Rebel SLS Porsche",
         "style": "Big air",
@@ -63,6 +70,7 @@
         "path": "../"
     },
         {   "id": 8,
+        "product": "kite", 
         "brand": "Duotone",
         "model": "Rebel SLS green",
         "style": "Big air",
@@ -72,6 +80,7 @@
         "path": "../"
     },
         {   "id": 9,
+        "product": "kite", 
         "brand": "Duotone",
         "model": "Rebel SLS white",
         "style": "Big air",
@@ -81,11 +90,32 @@
         "path": "../"
     },
         {   "id": 10,
+        "product": "kite", 
         "brand": "Duotone",
         "model": "Rebel SLS yellow",
         "style": "Big air",
         "description": "No matter how you choose to ride, the Rebel SLS has a well-deserved legendary status! Easy to jump, with huge hangtime, now even a kite looping machine and a big air monster.",
         "price": 2450,
+        "stock": 3,
+        "path": "../"
+    },
+        {   "id": 11,
+        "product": "kite", 
+        "brand": "F-one",
+        "model": "Bandit S4",
+        "style": "Freeride",
+        "description": "Highly responsive, intuitive, and capable of super drift, the profile of this kite is incredibly smooth and brings about sharper performances and more stability and efficiency than ever before.",
+        "price": 1900,
+        "stock": 8,
+        "path": "../"
+    },
+        {   "id": 12,
+        "product": "kite", 
+        "brand": "F-one",
+        "model": "Furtive V1",
+        "style": "Speed",
+        "description": "Optimized upwind speed/angle compromise with an unbelievable traction towards the edge of the window. Maximum power and acceleration thanks to the high aspect ratio and moderate ARC",
+        "price": 3500,
         "stock": 3,
         "path": "../"
     }
