@@ -248,5 +248,35 @@
         "price": 2350,
         "stock": 18,
         "path": "../assets/mitu_proflex.png"
+    },
+        {   "id": 26,
+        "product": "board", 
+        "brand": "F-one",
+        "model": "One",
+        "style": "Freeriding",
+        "description": "Accessible and intuitive, the ONE is the perfect kitesurfing board for freeride and twin tip beginners, as well as for fun sessions on light wind days.",
+        "price": 2050,
+        "stock": 14,
+        "path": "../assets/one.png"
+    },
+        {   "id": 27,
+        "product": "board", 
+        "brand": "F-one",
+        "model": "Papeno",
+        "style": "Windsurf, Windfoil, Wingsurf , Wingfoil",
+        "description": "It allows you to surf with a paddle, with or without a foil as well as windsurf or wingsurf in no time!",
+        "price": 1850,
+        "stock": 11,
+        "path": "../assets/papeno_foil.png"
+    },
+        {   "id": 28,
+        "product": "board", 
+        "brand": "F-one",
+        "model": "Surfing",
+        "style": "Windsurf, Windfoil, Wingsurf , Wingfoil",
+        "description": "Is a compact surf in a bamboo sandwich construction which does an excellent job of covering both strapless freestyle and small to medium-sized wave surfing.",
+        "price": 1850,
+        "stock": 11,
+        "path": "../assets/slice_bamboo.png"
     }
 ]
