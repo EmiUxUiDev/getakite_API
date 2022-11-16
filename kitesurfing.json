@@ -267,7 +267,7 @@
         "description": "It allows you to surf with a paddle, with or without a foil as well as windsurf or wingsurf in no time!",
         "price": 1850,
         "stock": 11,
-        "path": "../assets/papeno_foil.png"
+        "path": "../assets/papenoo_foil.png"
     },
         {   "id": 28,
         "product": "board", 
