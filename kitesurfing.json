@@ -297,7 +297,7 @@
         "description": "A high performance race foil board and the top of the range, designed for speed.",
         "price": 2100,
         "stock": 3,
-        "path": "../assets/free_foil.webp"
+        "path": "../assets/indy_foil.webp"
     },
         {   "id": 31,
         "product": "board", 
