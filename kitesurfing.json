@@ -1,6 +1,6 @@
 [
 {   "id": 1,
-        "product": "kite",
+        "category": "kite",
         "brand": "Cabrinha",
         "model": "FX2 yellow",
         "style": "Freestyle",
@@ -10,7 +10,7 @@
         "path": "../assets/cabrinha_fx02.webp"
     },
         {   "id": 2,
-        "product": "kite",
+        "category": "kite",
         "brand": "Cabrinha",
         "model": "FX2 red",
         "style": "Freestyle",
@@ -20,7 +20,7 @@
         "path": "../assets/cabrinha_fx01.webp"
     },
         {   "id": 3,
-        "product": "kite",
+        "category": "kite",
         "brand": "Cabrinha",
         "model": "FX2 turquoise",
         "style": "Freestyle",
@@ -30,7 +30,7 @@
         "path": "../assets/cabrinha_fx03.webp"
     },
 {   "id": 4,
-        "product": "kite",
+        "category": "kite",
         "brand": "Duotone",
         "model": "Dice",
         "style": "Freestyle",
@@ -40,7 +40,7 @@
         "path": "../assets/dice_cc01.webp"
     },
         {   "id": 5,
-        "product": "kite", 
+        "category": "kite", 
         "brand": "Duotone",
         "model": "Vegas",
         "style": "Freestyle",
@@ -50,7 +50,7 @@
         "path": "../assets/vegas_cc05.webp"
     },
         {   "id": 6,
-        "product": "kite", 
+        "category": "kite", 
         "brand": "Duotone",
         "model": "Rebel SLS Porsche",
         "style": "Big air",
@@ -60,7 +60,7 @@
         "path": "../assets/rebel_porsche.webp"
     },
         {   "id": 7,
-        "product": "kite", 
+        "category": "kite", 
         "brand": "Duotone",
         "model": "Rebel SLS green",
         "style": "Big air",
@@ -70,7 +70,7 @@
         "path": "../assets/rebel_sls_c04.webp"
     },
         {   "id": 8,
-        "product": "kite", 
+        "category": "kite", 
         "brand": "Duotone",
         "model": "Rebel SLS white",
         "style": "Big air",
@@ -80,7 +80,7 @@
         "path": "../assets/rebel_sls_c06.webp"
     },
         {   "id": 9,
-        "product": "kite", 
+        "category": "kite", 
         "brand": "Duotone",
         "model": "Rebel SLS yellow",
         "style": "Big air",
@@ -90,7 +90,7 @@
         "path": "../assets/rebel_sls_c08.webp"
     },
         {   "id": 10,
-        "product": "kite", 
+        "category": "kite", 
         "brand": "F-one",
         "model": "Bandit S4",
         "style": "Freeride",
@@ -100,7 +100,7 @@
         "path": "../assets/bandit_cc3.png"
     },
         {   "id": 11,
-        "product": "kite", 
+        "category": "kite", 
         "brand": "F-one",
         "model": "Furtive V1",
         "style": "Speed",
@@ -110,7 +110,7 @@
         "path": "../assets/furtive_01.png"
     },
         {   "id": 12,
-        "product": "board", 
+        "category": "board", 
         "brand": "Cabrinha",
         "model": "Xcal Carbon",
         "style": "Freestyle",
@@ -120,7 +120,7 @@
         "path": "../assets/xcalCarbon.webp"
     },
         {   "id": 13,
-        "product": "board", 
+        "category": "board", 
         "brand": "Cabrinha",
         "model": "Stylus",
         "style": "Freeride",
@@ -130,7 +130,7 @@
         "path": "../assets/stylus.webp"
     },
         {   "id": 14,
-        "product": "board", 
+        "category": "board", 
         "brand": "Cabrinha",
         "model": "Spectrum",
         "style": "Freeride",
@@ -140,7 +140,7 @@
         "path": "../assets/spectrum.webp"
     },
         {   "id": 15,
-        "product": "board", 
+        "category": "board", 
         "brand": "Cabrinha",
         "model": "Tronic",
         "style": "Freeride",
@@ -150,7 +150,7 @@
         "path": "../assets/tronic.webp"
     },
         {   "id": 16,
-        "product": "board", 
+        "category": "board", 
         "brand": "Cabrinha",
         "model": "Spade",
         "style": "Crossover surf",
@@ -160,7 +160,7 @@
         "path": "../assets/spadedeck.webp"
     },
         {   "id": 17,
-        "product": "board", 
+        "category": "board", 
         "brand": "Cabrinha",
         "model": "Cutlass pro",
         "style": "Freestyle surf",
@@ -170,7 +170,7 @@
         "path": "../assets/cutlass.webp"
     },
         {   "id": 18,
-        "product": "board", 
+        "category": "board", 
         "brand": "Cabrinha",
         "model": "XBreed",
         "style": "Crossover surf",
@@ -180,7 +180,7 @@
         "path": "../assets/breeddeck.webp"
     },
         {   "id": 19,
-        "product": "board", 
+        "category": "board", 
         "brand": "Cabrinha",
         "model": "Autopilot",
         "style": "Kite foil/ Wing foiling",
@@ -190,7 +190,7 @@
         "path": "../assets/autopilot_foil.webp"
     },
         {   "id": 20,
-        "product": "board", 
+        "category": "board", 
         "brand": "Cabrinha",
         "model": "Macro",
         "style": "Wing foiling",
@@ -200,7 +200,7 @@
         "path": "../assets/macro_foil.webp"
     },
         {   "id": 21,
-        "product": "board", 
+        "category": "board", 
         "brand": "Cabrinha",
         "model": "Macro air",
         "style": "Wing foiling",
@@ -210,7 +210,7 @@
         "path": "../assets/macroair_foil.webp"
     },
         {   "id": 22,
-        "product": "board", 
+        "category": "board", 
         "brand": "F-one",
         "model": "Big one",
         "style": "Light wind",
@@ -220,7 +220,7 @@
         "path": "../assets/bigone.png"
     },
         {   "id": 23,
-        "product": "board", 
+        "category": "board", 
         "brand": "F-one",
         "model": "Magnet carbon",
         "style": "Freestyle",
@@ -230,7 +230,7 @@
         "path": "../assets/magnet_carbon.png"
     },
         {   "id": 24,
-        "product": "board", 
+        "category": "board", 
         "brand": "F-one",
         "model": "Mitu pro carbon",
         "style": "Strapless",
@@ -240,7 +240,7 @@
         "path": "../assets/mitu_procarbon.png"
     },
         {   "id": 25,
-        "product": "board", 
+        "category": "board", 
         "brand": "F-one",
         "model": "Mitu pro flex",
         "style": "Strapless",
@@ -250,7 +250,7 @@
         "path": "../assets/mitu_proflex.png"
     },
         {   "id": 26,
-        "product": "board", 
+        "category": "board", 
         "brand": "F-one",
         "model": "One",
         "style": "Freeriding",
@@ -260,7 +260,7 @@
         "path": "../assets/one.png"
     },
         {   "id": 27,
-        "product": "board", 
+        "category": "board", 
         "brand": "F-one",
         "model": "Papeno",
         "style": "Windsurf, Windfoil, Wingsurf , Wingfoil",
@@ -270,7 +270,7 @@
         "path": "../assets/papenoo_foil.png"
     },
         {   "id": 28,
-        "product": "board", 
+        "category": "board", 
         "brand": "F-one",
         "model": "Surfing",
         "style": "Windsurf, Windfoil, Wingsurf , Wingfoil",
@@ -280,7 +280,7 @@
         "path": "../assets/slice_bamboo.png"
     },
         {   "id": 29,
-        "product": "board", 
+        "category": "board", 
         "brand": "Duotone",
         "model": "Free",
         "style": "Freeride",
@@ -290,7 +290,7 @@
         "path": "../assets/free_foil.webp"
     },
         {   "id": 30,
-        "product": "board", 
+        "category": "board", 
         "brand": "Duotone",
         "model": "Indy",
         "style": "High performance",
@@ -300,7 +300,7 @@
         "path": "../assets/indy_foil.webp"
     },
         {   "id": 31,
-        "product": "board", 
+        "category": "board", 
         "brand": "Duotone",
         "model": "Jaime",
         "style": "Freestyle",
@@ -310,7 +310,7 @@
         "path": "../assets/jaime.webp"
     },
         {   "id": 32,
-        "product": "Foil", 
+        "category": "Foil", 
         "brand": "Duotone",
         "model": "Spirit GT",
         "style": "Speed foil",
@@ -320,7 +320,7 @@
         "path": "../assets/spirit_gt.webp"
     },
         {   "id": 33,
-        "product": "Foil", 
+        "category": "Foil", 
         "brand": "Duotone",
         "model": "Fusion",
         "style": "Freeride",
@@ -330,7 +330,7 @@
         "path": "../assets/fusion.webp"
     },
         {   "id": 34,
-        "product": "Foil", 
+        "category": "Foil", 
         "brand": "Duotone",
         "model": "Spirit SLS GT",
         "style": "Speed foil",
@@ -340,7 +340,7 @@
         "path": "../assets/spirit_sls.webp"
     },
         {   "id": 35,
-        "product": "Foil", 
+        "category": "Foil", 
         "brand": "Duotone",
         "model": "Spirit freeride",
         "style": "Freeride",
@@ -351,7 +351,7 @@
     },
         
         {   "id": 36,
-        "product": "Foil", 
+        "category": "Foil", 
         "brand": "Duotone",
         "model": "Spirit Carve",
         "style": "Surf foil",
@@ -361,7 +361,7 @@
         "path": "../assets/spirit_carve.webp"
     },  
         {   "id": 37,
-        "product": "Wing", 
+        "category": "Wing", 
         "brand": "Duotone",
         "model": "Green Slick SLS window ",
         "style": "Surf foil",
@@ -371,7 +371,7 @@
         "path": "../assets/foilwing02.webp"
     },  
         {   "id": 38,
-        "product": "Wing", 
+        "category": "Wing", 
         "brand": "Duotone",
         "model": "Pink Slick SLS window ",
         "style": "Surf foil",
@@ -381,7 +381,7 @@
         "path": "../assets/foilwing03.webp"
     },  
         {   "id": 39,
-        "product": "Wing", 
+        "category": "Wing", 
         "brand": "Duotone",
         "model": "Yellow Slick SLS window ",
         "style": "Surf foil",
@@ -391,7 +391,7 @@
         "path": "../assets/foilwing04.webp"
     },  
         {   "id": 40,
-        "product": "Wing", 
+        "category": "Wing", 
         "brand": "F-one",
         "model": "Orange Slick SLS windowless ",
         "style": "Surf foil",
@@ -401,7 +401,7 @@
         "path": "../assets/swing01.png"
         },  
         {   "id": 41,
-        "product": "Wing", 
+        "category": "Wing", 
         "brand": "F-one",
         "model": "Blue Slick SLS windowless ",
         "style": "Surf foil",
@@ -411,7 +411,7 @@
         "path": "../assets/swing02.png"
         },  
         {   "id": 42,
-        "product": "Wing", 
+        "category": "Wing", 
         "brand": "F-one",
         "model": "Strong Slick SLS windowless ",
         "style": "Surf foil",
