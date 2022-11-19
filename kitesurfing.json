@@ -7,7 +7,7 @@
         "description": "Fast powerful loops with the ability to catch you on the way down.  Height and hang time that this kite has not seen before.",
         "price": 1950,
         "stock": 5,
-        "path": "assets/cabrinha_fx02.webp"
+        "path": "./assets/cabrinha_fx02.webp"
     },
         {   "id": 2,
         "category": "kite",
@@ -17,7 +17,7 @@
         "description": "Fast powerful loops with the ability to catch you on the way down.  Height and hang time that this kite has not seen before.",
         "price": 1950,
         "stock": 2,
-        "path": "assets/cabrinha_fx01.webp"
+        "path": "./assets/cabrinha_fx01.webp"
     },
         {   "id": 3,
         "category": "kite",
@@ -27,7 +27,7 @@
         "description": "Fast powerful loops with the ability to catch you on the way down.  Height and hang time that this kite has not seen before.",
         "price": 1950,
         "stock": 4,
-        "path": "assets/cabrinha_fx03.webp"
+        "path": "./assets/cabrinha_fx03.webp"
     },
 {   "id": 4,
         "category": "kite",
