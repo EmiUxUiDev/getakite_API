@@ -117,7 +117,7 @@
         "description": "With the strategic use of our exclusive Japanese Toray Carbon we’ve fine tuned the response of the board, leading to an explosive pop and fast locked in landings.",
         "price": 1600,
         "stock": 8,
-        "path": "/assets/xcalCarbon.webp"
+        "path": "/assets/xcalCarbon.png"
     },
         {   "id": 13,
         "category": "board", 
@@ -127,7 +127,7 @@
         "description": "Its clever design allows you to generate speed and power in minimal wind speeds and the offset binding positioning enhances edging and allows greater control over the board. ",
         "price": 1000,
         "stock": 15,
-        "path": "/assets/stylus.webp"
+        "path": "/assets/stylus.png"
     },
         {   "id": 14,
         "category": "board", 
@@ -137,7 +137,7 @@
         "description": " What’s so special about the spectrum is how easy it is to ride and the vast range of use and ability levels it caters for. ",
         "price": 1200,
         "stock": 14,
-        "path": "/assets/spectrum.webp"
+        "path": "/assets/spectrum.png"
     },
         {   "id": 15,
         "category": "board", 
@@ -147,7 +147,7 @@
         "description": " What’s so special about the spectrum is how easy it is to ride and the vast range of use and ability levels it caters for. ",
         "price": 1200,
         "stock": 7,
-        "path": "/assets/tronic.webp"
+        "path": "/assets/tronic.png"
     },
         {   "id": 16,
         "category": "board", 
@@ -157,7 +157,7 @@
         "description": " What’s so special about the spectrum is how easy it is to ride and the vast range of use and ability levels it caters for. ",
         "price": 1700,
         "stock": 11,
-        "path": "/assets/spadedeck.webp"
+        "path": "/assets/spadedeck.png"
     },
         {   "id": 17,
         "category": "board", 
@@ -167,7 +167,7 @@
         "description": "With a slightly wider nose and wide point just front of center, the Cutlass puts a lot of flow and style into your surfing.",
         "price": 2100,
         "stock": 7,
-        "path": "/assets/cutlass.webp"
+        "path": "/assets/cutlass.png"
     },
         {   "id": 18,
         "category": "board", 
@@ -177,7 +177,7 @@
         "description": "Symmetrical tip and tail design but to enhance its freestyle capability in the surf or on flat water we have lowered the rocker line and have added a center bottom channel.",
         "price": 2100,
         "stock": 5,
-        "path": "/assets/breeddeck.webp"
+        "path": "/assets/breeddeck.png"
     },
         {   "id": 19,
         "category": "board", 
@@ -187,7 +187,7 @@
         "description": "The higher volume of the Autopilot makes paddling a simple task when surfing, while the concave deck shape keeps your feet as close to the hydrofoil as possible.",
         "price": 2000,
         "stock": 6,
-        "path": "/assets/autopilot_foil.webp"
+        "path": "/assets/autopilot_foil.png"
     },
         {   "id": 20,
         "category": "board", 
@@ -197,7 +197,7 @@
         "description": "We’ve optimized the volume distribution to put the float exactly where it's needed to quickly fly while creating a balanced and nimble board once you are up on the foil.",
         "price": 1900,
         "stock": 9,
-        "path": "/assets/macro_foil.webp"
+        "path": "/assets/macro_foil.png"
     },
         {   "id": 21,
         "category": "board", 
@@ -207,7 +207,7 @@
         "description": "We’ve optimized the volume distribution to put the float exactly where it's needed to quickly fly while creating a balanced and nimble board once you are up on the foil.",
         "price": 2050,
         "stock": 12,
-        "path": "/assets/macroair_foil.webp"
+        "path": "/assets/macroair_foil.png"
     },
         {   "id": 22,
         "category": "board", 
