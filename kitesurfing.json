@@ -115,7 +115,7 @@
         "model": "Xcal Carbon",
         "style": "Freestyle",
         "description": "With the strategic use of our exclusive Japanese Toray Carbon we’ve fine tuned the response of the board, leading to an explosive pop and fast locked in landings.",
-        "price": 1600,
+        "price": 950,
         "stock": 8,
         "path": "/assets/xcalCarbon.png"
     },
@@ -125,7 +125,7 @@
         "model": "Stylus",
         "style": "Freeride",
         "description": "Its clever design allows you to generate speed and power in minimal wind speeds and the offset binding positioning enhances edging and allows greater control over the board. ",
-        "price": 1000,
+        "price": 600,
         "stock": 15,
         "path": "/assets/stylus.png"
     },
@@ -135,7 +135,7 @@
         "model": "Spectrum",
         "style": "Freeride",
         "description": " What’s so special about the spectrum is how easy it is to ride and the vast range of use and ability levels it caters for. ",
-        "price": 1200,
+        "price": 750,
         "stock": 14,
         "path": "/assets/spectrum.png"
     },
@@ -145,7 +145,7 @@
         "model": "Tronic",
         "style": "Freeride",
         "description": " What’s so special about the spectrum is how easy it is to ride and the vast range of use and ability levels it caters for. ",
-        "price": 1200,
+        "price": 750,
         "stock": 7,
         "path": "/assets/tronic.png"
     },
@@ -155,7 +155,7 @@
         "model": "Spade",
         "style": "Surfing",
         "description": " What’s so special about the spectrum is how easy it is to ride and the vast range of use and ability levels it caters for. ",
-        "price": 1700,
+        "price": 1200,
         "stock": 11,
         "path": "/assets/spadedeck.png"
     },
@@ -165,7 +165,7 @@
         "model": "Cutlass pro",
         "style": "Surfing",
         "description": "With a slightly wider nose and wide point just front of center, the Cutlass puts a lot of flow and style into your surfing.",
-        "price": 2100,
+        "price": 1250,
         "stock": 7,
         "path": "/assets/cutlass.png"
     },
@@ -175,7 +175,7 @@
         "model": "XBreed",
         "style": "Surfing",
         "description": "Symmetrical tip and tail design but to enhance its freestyle capability in the surf or on flat water we have lowered the rocker line and have added a center bottom channel.",
-        "price": 2100,
+        "price": 1300,
         "stock": 5,
         "path": "/assets/breeddeck.png"
     },
@@ -185,7 +185,7 @@
         "model": "Autopilot",
         "style": "Foil",
         "description": "The higher volume of the Autopilot makes paddling a simple task when surfing, while the concave deck shape keeps your feet as close to the hydrofoil as possible.",
-        "price": 2000,
+        "price": 900,
         "stock": 6,
         "path": "/assets/autopilot_foil.png"
     },
@@ -195,7 +195,7 @@
         "model": "Macro",
         "style": "Foil",
         "description": "We’ve optimized the volume distribution to put the float exactly where it's needed to quickly fly while creating a balanced and nimble board once you are up on the foil.",
-        "price": 1900,
+        "price": 1100,
         "stock": 9,
         "path": "/assets/macro_foil.png"
     },
@@ -205,7 +205,7 @@
         "model": "Surfing",
         "style": "Wing foiling",
         "description": "We’ve optimized the volume distribution to put the float exactly where it's needed to quickly fly while creating a balanced and nimble board once you are up on the foil.",
-        "price": 2050,
+        "price": 1050,
         "stock": 12,
         "path": "/assets/macroair_foil.png"
     },
@@ -215,7 +215,7 @@
         "model": "Big one",
         "style": "Freeride",
         "description": "With early planing abilities and a grippy footing, this board is incredibly stable and reliable so you can ride at any time in full confidence.",
-        "price": 2250,
+        "price": 1250,
         "stock": 5,
         "path": "/assets/bigone.png"
     },
@@ -225,7 +225,7 @@
         "model": "Magnet carbon",
         "style": "Freestyle",
         "description": "With early planing abilities and a grippy footing, this board is incredibly stable and reliable so you can ride at any time in full confidence.",
-        "price": 2850,
+        "price": 1850,
         "stock": 7,
         "path": "/assets/magnet_carbon.png"
     },
@@ -235,7 +235,7 @@
         "model": "Mitu pro carbon",
         "style": "Surfing",
         "description": "It is a must-have for any rider who wants to combine high-performance wave riding with some serious strapless freestyle and air game.",
-        "price": 2550,
+        "price": 1550,
         "stock": 5,
         "path": "/assets/mitu_procarbon.png"
     },
@@ -245,7 +245,7 @@
         "model": "Mitu pro flex",
         "style": "Surfing",
         "description": "HD Foam Flex construction offer the fantastic MITU shape that brings the sensation of a traditional surfboard with incredible versatility and durability for unrivalled comfort and flow on the water..",
-        "price": 2350,
+        "price": 1850,
         "stock": 18,
         "path": "/assets/mitu_proflex.png"
     },
@@ -285,7 +285,7 @@
         "model": "Free",
         "style": "Freeride",
         "description": "The perfect board for entry-level riders, looking for an easy board to advance quickly.",
-        "price": 1800,
+        "price": 1100,
         "stock": 5,
         "path": "/assets/free_foil.webp"
     },
@@ -305,7 +305,7 @@
         "model": "Jaime",
         "style": "Freestyle",
         "description": "Perfect for riders who want to boost big air, throw the latest freestyle tricks and have loads of fun on the water!",
-        "price": 2550,
+        "price": 1450,
         "stock": 7,
         "path": "/assets/jaime.webp"
     },
@@ -315,7 +315,7 @@
         "model": "Spirit GT",
         "style": "Speed foil",
         "description": "The Spirit 3.0 series is a solid aluminium mast offering loads of control and stability at incredible speed.",
-        "price": 2550,
+        "price": 1250,
         "stock": 7,
         "path": "/assets/spirit_gt.webp"
     },
@@ -335,7 +335,7 @@
         "model": "Spirit SLS GT",
         "style": "Speed foil",
         "description": "The Spirit SLS is a true inspiration in the SLS (strong light superior) segment, offering an ultra light carbon mast with a glued top plate and a carbon fuselage form fit connection system",
-        "price": 2650,
+        "price": 1550,
         "stock": 9,
         "path": "/assets/spirit_sls.webp"
     },
@@ -345,7 +345,7 @@
         "model": "Spirit freeride",
         "style": "Freeride",
         "description": "The Spirit 3.0 series is a solid aluminium mast offering loads of control and stability at incredible speed.",
-        "price": 1950,
+        "price": 1400,
         "stock": 14,
         "path": "/assets/spirit_freeride.webp"
     },
@@ -356,7 +356,7 @@
         "model": "Spirit Carve",
         "style": "Surf foil",
         "description": "The Spirit 3.0 series is a solid aluminium mast offering loads of control and stability at incredible speed.",
-        "price": 1950,
+        "price": 1650,
         "stock": 14,
         "path": "/assets/spirit_carve.webp"
     },  
