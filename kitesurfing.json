@@ -107,7 +107,7 @@
         "description": "Optimized upwind speed/angle compromise with an unbelievable traction towards the edge of the window. Maximum power and acceleration thanks to the high aspect ratio and moderate ARC",
         "price": 3500,
         "stock": 3,
-        "path": "../assets/furtive_01.png"
+        "path": "/assets/furtive_01.png"
     },
         {   "id": 12,
         "category": "board", 
@@ -117,7 +117,7 @@
         "description": "With the strategic use of our exclusive Japanese Toray Carbon we’ve fine tuned the response of the board, leading to an explosive pop and fast locked in landings.",
         "price": 1600,
         "stock": 8,
-        "path": "../assets/xcalCarbon.webp"
+        "path": "/assets/xcalCarbon.webp"
     },
         {   "id": 13,
         "category": "board", 
@@ -127,7 +127,7 @@
         "description": "Its clever design allows you to generate speed and power in minimal wind speeds and the offset binding positioning enhances edging and allows greater control over the board. ",
         "price": 1000,
         "stock": 15,
-        "path": "../assets/stylus.webp"
+        "path": "/assets/stylus.webp"
     },
         {   "id": 14,
         "category": "board", 
@@ -137,7 +137,7 @@
         "description": " What’s so special about the spectrum is how easy it is to ride and the vast range of use and ability levels it caters for. ",
         "price": 1200,
         "stock": 14,
-        "path": "../assets/spectrum.webp"
+        "path": "/assets/spectrum.webp"
     },
         {   "id": 15,
         "category": "board", 
@@ -147,7 +147,7 @@
         "description": " What’s so special about the spectrum is how easy it is to ride and the vast range of use and ability levels it caters for. ",
         "price": 1200,
         "stock": 7,
-        "path": "../assets/tronic.webp"
+        "path": "/assets/tronic.webp"
     },
         {   "id": 16,
         "category": "board", 
@@ -157,7 +157,7 @@
         "description": " What’s so special about the spectrum is how easy it is to ride and the vast range of use and ability levels it caters for. ",
         "price": 1700,
         "stock": 11,
-        "path": "../assets/spadedeck.webp"
+        "path": "/assets/spadedeck.webp"
     },
         {   "id": 17,
         "category": "board", 
@@ -167,7 +167,7 @@
         "description": "With a slightly wider nose and wide point just front of center, the Cutlass puts a lot of flow and style into your surfing.",
         "price": 2100,
         "stock": 7,
-        "path": "../assets/cutlass.webp"
+        "path": "/assets/cutlass.webp"
     },
         {   "id": 18,
         "category": "board", 
@@ -177,7 +177,7 @@
         "description": "Symmetrical tip and tail design but to enhance its freestyle capability in the surf or on flat water we have lowered the rocker line and have added a center bottom channel.",
         "price": 2100,
         "stock": 5,
-        "path": "../assets/breeddeck.webp"
+        "path": "/assets/breeddeck.webp"
     },
         {   "id": 19,
         "category": "board", 
@@ -187,7 +187,7 @@
         "description": "The higher volume of the Autopilot makes paddling a simple task when surfing, while the concave deck shape keeps your feet as close to the hydrofoil as possible.",
         "price": 2000,
         "stock": 6,
-        "path": "../assets/autopilot_foil.webp"
+        "path": "/assets/autopilot_foil.webp"
     },
         {   "id": 20,
         "category": "board", 
@@ -197,7 +197,7 @@
         "description": "We’ve optimized the volume distribution to put the float exactly where it's needed to quickly fly while creating a balanced and nimble board once you are up on the foil.",
         "price": 1900,
         "stock": 9,
-        "path": "../assets/macro_foil.webp"
+        "path": "/assets/macro_foil.webp"
     },
         {   "id": 21,
         "category": "board", 
@@ -207,7 +207,7 @@
         "description": "We’ve optimized the volume distribution to put the float exactly where it's needed to quickly fly while creating a balanced and nimble board once you are up on the foil.",
         "price": 2050,
         "stock": 12,
-        "path": "../assets/macroair_foil.webp"
+        "path": "/assets/macroair_foil.webp"
     },
         {   "id": 22,
         "category": "board", 
@@ -217,7 +217,7 @@
         "description": "With early planing abilities and a grippy footing, this board is incredibly stable and reliable so you can ride at any time in full confidence.",
         "price": 2250,
         "stock": 5,
-        "path": "../assets/bigone.png"
+        "path": "/assets/bigone.png"
     },
         {   "id": 23,
         "category": "board", 
@@ -227,7 +227,7 @@
         "description": "With early planing abilities and a grippy footing, this board is incredibly stable and reliable so you can ride at any time in full confidence.",
         "price": 2850,
         "stock": 7,
-        "path": "../assets/magnet_carbon.png"
+        "path": "/assets/magnet_carbon.png"
     },
         {   "id": 24,
         "category": "board", 
@@ -237,7 +237,7 @@
         "description": "It is a must-have for any rider who wants to combine high-performance wave riding with some serious strapless freestyle and air game.",
         "price": 2550,
         "stock": 5,
-        "path": "../assets/mitu_procarbon.png"
+        "path": "/assets/mitu_procarbon.png"
     },
         {   "id": 25,
         "category": "board", 
@@ -247,7 +247,7 @@
         "description": "HD Foam Flex construction offer the fantastic MITU shape that brings the sensation of a traditional surfboard with incredible versatility and durability for unrivalled comfort and flow on the water..",
         "price": 2350,
         "stock": 18,
-        "path": "../assets/mitu_proflex.png"
+        "path": "/assets/mitu_proflex.png"
     },
         {   "id": 26,
         "category": "board", 
@@ -255,9 +255,9 @@
         "model": "One",
         "style": "Freeriding",
         "description": "Accessible and intuitive, the ONE is the perfect kitesurfing board for freeride and twin tip beginners, as well as for fun sessions on light wind days.",
-        "price": 2050,
+        "price": 1570,
         "stock": 14,
-        "path": "../assets/one.png"
+        "path": "/assets/one.png"
     },
         {   "id": 27,
         "category": "board", 
@@ -267,7 +267,7 @@
         "description": "It allows you to surf with a paddle, with or without a foil as well as windsurf or wingsurf in no time!",
         "price": 1850,
         "stock": 11,
-        "path": "../assets/papenoo_foil.png"
+        "path": "/assets/papenoo_foil.png"
     },
         {   "id": 28,
         "category": "board", 
@@ -277,7 +277,7 @@
         "description": "Is a compact surf in a bamboo sandwich construction which does an excellent job of covering both strapless freestyle and small to medium-sized wave surfing.",
         "price": 1850,
         "stock": 11,
-        "path": "../assets/slice_bamboo.png"
+        "path": "/assets/slice_bamboo.png"
     },
         {   "id": 29,
         "category": "board", 
@@ -287,7 +287,7 @@
         "description": "The perfect board for entry-level riders, looking for an easy board to advance quickly.",
         "price": 1800,
         "stock": 5,
-        "path": "../assets/free_foil.webp"
+        "path": "/assets/free_foil.webp"
     },
         {   "id": 30,
         "category": "board", 
@@ -297,7 +297,7 @@
         "description": "A high performance race foil board and the top of the range, designed for speed.",
         "price": 2100,
         "stock": 3,
-        "path": "../assets/indy_foil.webp"
+        "path": "/assets/indy_foil.webp"
     },
         {   "id": 31,
         "category": "board", 
@@ -307,7 +307,7 @@
         "description": "Perfect for riders who want to boost big air, throw the latest freestyle tricks and have loads of fun on the water!",
         "price": 2550,
         "stock": 7,
-        "path": "../assets/jaime.webp"
+        "path": "/assets/jaime.webp"
     },
         {   "id": 32,
         "category": "Foil", 
@@ -317,7 +317,7 @@
         "description": "The Spirit 3.0 series is a solid aluminium mast offering loads of control and stability at incredible speed.",
         "price": 2550,
         "stock": 7,
-        "path": "../assets/spirit_gt.webp"
+        "path": "/assets/spirit_gt.webp"
     },
         {   "id": 33,
         "category": "Foil", 
@@ -325,9 +325,9 @@
         "model": "Fusion",
         "style": "Freeride",
         "description": "With its blend of full carbon and EPS core construction, low aspect Ratio wings and extruded aluminum fuselage with Heli coils, the DA850 allows for a slower planing speed",
-        "price": 2150,
+        "price":1650,
         "stock": 7,
-        "path": "../assets/fusion.webp"
+        "path": "/assets/fusion.webp"
     },
         {   "id": 34,
         "category": "Foil", 
@@ -337,7 +337,7 @@
         "description": "The Spirit SLS is a true inspiration in the SLS (strong light superior) segment, offering an ultra light carbon mast with a glued top plate and a carbon fuselage form fit connection system",
         "price": 2650,
         "stock": 9,
-        "path": "../assets/spirit_sls.webp"
+        "path": "/assets/spirit_sls.webp"
     },
         {   "id": 35,
         "category": "Foil", 
@@ -347,7 +347,7 @@
         "description": "The Spirit 3.0 series is a solid aluminium mast offering loads of control and stability at incredible speed.",
         "price": 1950,
         "stock": 14,
-        "path": "../assets/spirit_freeride.webp"
+        "path": "/assets/spirit_freeride.webp"
     },
         
         {   "id": 36,
@@ -358,7 +358,7 @@
         "description": "The Spirit 3.0 series is a solid aluminium mast offering loads of control and stability at incredible speed.",
         "price": 1950,
         "stock": 14,
-        "path": "../assets/spirit_carve.webp"
+        "path": "/assets/spirit_carve.webp"
     },  
         {   "id": 37,
         "category": "Wing", 
@@ -368,7 +368,7 @@
         "description": "A new, fun way to enjoy water sports!Freedon in the air",
         "price": 950,
         "stock": 11,
-        "path": "../assets/foilwing02.webp"
+        "path": "/assets/foilwing02.webp"
     },  
         {   "id": 38,
         "category": "Wing", 
@@ -378,7 +378,7 @@
         "description": "A new, fun way to enjoy water sports! Freedon in the air",
         "price": 950,
         "stock": 5,
-        "path": "../assets/foilwing03.webp"
+        "path": "/assets/foilwing03.webp"
     },  
         {   "id": 39,
         "category": "Wing", 
@@ -388,7 +388,7 @@
         "description": "A new, fun way to enjoy water sports!Freedon in the air",
         "price": 950,
         "stock": 2,
-        "path": "../assets/foilwing04.webp"
+        "path": "/assets/foilwing04.webp"
     },  
         {   "id": 40,
         "category": "Wing", 
@@ -398,7 +398,7 @@
         "description": "This brand new wing offers more lightness and comfort while being very accessible as well as performing for all riders!",
         "price": 1050,
         "stock": 4,
-        "path": "../assets/swing01.png"
+        "path": "/assets/swing01.png"
         },  
         {   "id": 41,
         "category": "Wing", 
@@ -408,7 +408,7 @@
         "description": "This brand new wing offers more lightness and comfort while being very accessible as well as performing for all riders!",
         "price": 1050,
         "stock": 5,
-        "path": "../assets/swing02.png"
+        "path": "/assets/swing02.png"
         },  
         {   "id": 42,
         "category": "Wing", 
@@ -418,6 +418,6 @@
         "description": "This brand new wing offers more lightness and comfort while being very accessible as well as performing for all riders!",
         "price": 1050,
         "stock": 7,
-        "path": "../assets/swing03.png"
+        "path": "/assets/swing03.png"
         }
 ]
